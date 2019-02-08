@@ -3,19 +3,19 @@ pipeline {
     stages {
         stage('Titre') {
             steps {
-                sh 'echo "La Team Spirit" > livre.md'
+                sh 'echo "# La Team Spirit" > livre.md'
             }
         }
         stage('Introduction') {
             steps {
-                sh "cat -n Readme.md >> livre.md"
+                sh "cat Readme.md >> livre.md"
             }
         }
         stage('Histoire') {
 	    parallel {
 		stage('Scene1'){
             	    steps {
-		     	sh "cat -n Intrigue1.md >> livre.md"
+		     	sh "cat Intrigue1.md >> livre.md"
 		    }
 		}
 		stage('Scene2'){
