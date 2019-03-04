@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-En arrivant à
-
- 
-=======
-En arrivant à 
->>>>>>> master
+En arrivant à L2, P2 mange O2.
