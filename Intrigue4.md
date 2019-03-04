@@ -2,8 +2,8 @@ Intrigue n°4
 By DUMENIL Antoine BETEND Bptiste
 
 Le vent souffle sur les bosquet de la foret noir
-Je jette un dernier regard sur ma bière, ma clope et mon épée
-Joseph, le fils du menuisier est venu me trouver
+Je jette un dernier regard sur ma cuilliere, ma fourchette et mon couteu
+Joseph, le fils du cuisinier est venu me trouver
 Les alchimistes ont décidé de mener l'elexir dans la foret
 Là, où tous nos enfants
 Après de grand festin, se sont imposés en maîtres cuisinier
